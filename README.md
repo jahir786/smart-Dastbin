@@ -1,5 +1,6 @@
 # smart-Dastbin
 Made by jahir & Ishani
+15 August
 
 
 #include <Servo.h>   //servo library
